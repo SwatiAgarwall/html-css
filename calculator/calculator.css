@@ -1,0 +1,47 @@
+body{
+    background-color: teal;
+    margin: opx;
+    padding: 0px;
+}
+.screen input
+{
+background-color: rgb(74, 70, 70);
+border:none;
+border-radius: 6px;
+height:70px;
+color:rgb(188, 177, 177);
+padding: 2px;
+margin-left: 0px;
+font-size: 26px;
+width:295px;
+border: black;
+
+}
+.container
+{
+    border: 2px solid black;
+    width: 300px;
+    height: 350px;
+    background-color: rgb(18, 18, 18);
+    margin: auto;
+    padding: 8px;
+    border-radius: 10spx;
+}
+button{
+    cursor: pointer;
+    background-color: grey;
+    color: white;
+    font-size: 20px;
+    padding: 8px;
+    text-align: center;
+    width: 72px;
+    margin-top:10px;
+    border-radius: 10px;
+
+}
+
+.container-btn button[class="b1"],[class="b2"],[class="b3"]
+,[class="b4"],[class="b5"],[class="b6"],[class="b7"],[class="b8"]{
+    background-color: rgb(16, 16, 16);
+    box-shadow: 2px 2px 2px 0px rgb(144, 140, 140);
+}
